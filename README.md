@@ -65,6 +65,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 https://github.com/minhaaj-t/Lazim-App-Assessment/assets/72432356/471366be-59bb-463e-9f3d-d0d5a360b2f1
 
+## API Test
+
+
+
+https://github.com/minhaaj-t/Lazim-App-Assessment/assets/72432356/feb32e7a-3698-42fe-a688-97b31349768d
+
+
+
 
 </p>
 ## License
