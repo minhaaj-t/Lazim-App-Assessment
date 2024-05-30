@@ -62,10 +62,9 @@ In order to ensure that the Laravel community is welcoming to all, please review
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 <p style="content-align:center;">
 
-<p align="center">
+<div align="center">
 <video src="https://github.com/minhaaj-t/Lazim-App-Assessment/assets/72432356/471366be-59bb-463e-9f3d-d0d5a360b2f1" width=400/>
-
-</p>
+</div>
 
 ## API Test
 
